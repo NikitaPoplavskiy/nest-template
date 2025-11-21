@@ -1,0 +1,1 @@
+Abstract services for application domain entities
